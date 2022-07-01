@@ -1,0 +1,66 @@
+{
+  "id" : "https://Richel325.github.io/TempleMurals/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Richel325/TempleMurals project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3698,
+    "id" : "https://Richel325.github.io/TempleMurals/images/RS18189/canvas/",
+    "label" : {
+      "none" : [ "RS18189" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Richel325.github.io/TempleMurals/images/RS18189/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Richel325.github.io/TempleMurals/images/RS18189/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 116,
+              "height" : 169
+            }, {
+              "width" : 232,
+              "height" : 338
+            }, {
+              "width" : 463,
+              "height" : 675
+            }, {
+              "width" : 925,
+              "height" : 1350
+            }, {
+              "width" : 1849,
+              "height" : 2700
+            }, {
+              "width" : 3698,
+              "height" : 5400
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3698,
+            "@id" : "https://Richel325.github.io/TempleMurals/images/RS18189",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5400
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3698,
+          "id" : "https://Richel325.github.io/TempleMurals/images/RS18189/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 5400
+        },
+        "target" : "https://Richel325.github.io/TempleMurals/images/RS18189/canvas/"
+      } ]
+    } ],
+    "height" : 5400
+  } ]
+}
