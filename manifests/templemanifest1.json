@@ -1,0 +1,156 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Richel325.github.io/TempleMurals/manifests/templemanifest1.json",
+  "@type" : "sc:Manifest",
+  "label" : "N/A",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "P-972-231-6_005.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Digital Camera",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Pixel height",
+    "value" : "5400"
+  }, {
+    "label" : "Pixel width",
+    "value" : "2476"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "-455184417"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "67311"
+  }, {
+    "label" : "Object Number",
+    "value" : "P.972.231.6"
+  }, {
+    "label" : "Object Name",
+    "value" : "Painting"
+  }, {
+    "label" : "TMS Copyright Notice",
+    "value" : "© Rev. O. Florian Jenkins"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "O. Florian Jenkins, American, born 1940"
+  }, {
+    "label" : "Date Label",
+    "value" : "June 15-October 15, 1972"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "1972"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "1972"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Title",
+    "value" : "Malcolm, A Lifestyle, panel six from The Temple Murals: The Life of Malcolm X"
+  }, {
+    "label" : "Research Area",
+    "value" : "Painting"
+  }, {
+    "label" : "Period",
+    "value" : "20th century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: United States, North America"
+  }, {
+    "label" : "Medium",
+    "value" : "Acrylic on canvas adhered to the wall"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Overall: 84 1/2 × 172 in. (214.6 × 436.9 cm) | Overall: 19 1/2 × 47 in. (49.5 × 119.4 cm) | Overall: 19 3/4 × 47 in. (50.2 × 119.4 cm)"
+  }, {
+    "label" : "Subjects",
+    "value" : "Mural | African American | African American Artist | Malcolm X | Black Art Movement | Black Power | Pan-Africanism"
+  }, {
+    "label" : "Exhibition History",
+    "value" : "Virtual Space for Dialogue, 2018, The Temple Murals, Ashley Erin Dotson, Class of 2018, Kathryn Conroy Intern, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, https://www.adotson.vsfd.hoodmuseum.dartmouth.edu/"
+  }, {
+    "label" : "Publication History",
+    "value" : "Brian P. Kennedy and Emily Shubert Burke, Modern and Contemporary Art at Dartmouth: Highlights from the Hood Museum of Art, Hanover: Trustees of Dartmouth College, 2009 p.64, no.40. | Florian Jenkins, Stefan Bradley, Crishuana Williams, The Temple Murals: The Life of Malcolm X, Hanover, New Hampshire: Trustees of Dartmouth College, 2014."
+  }, {
+    "label" : "Credit Line",
+    "value" : "Commissioned by the Afro-American Society, Dartmouth College"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "NEL (standard)"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Alternate",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/39718/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 175,
+    "width" : 80,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/39718",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/67311/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/67311/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 3427,
+      "width" : 5400,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/18190/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 111,
+        "width" : 175,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/18190",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/67311/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/18190/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3427,
+          "width" : 5400,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/18190",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/67311/canvas/0"
+      } ]
+    } ]
+  } ]
+}
