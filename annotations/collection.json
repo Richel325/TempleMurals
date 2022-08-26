@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Richel325.github.io/TempleMurals/annotations/AnnotationsTest" ],
+  "@id" : "https://Richel325.github.io/TempleMurals/annotations/collection.json",
+  "label" : "All annotations loaded in Richel325/TempleMurals project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
