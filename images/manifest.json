@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 5400,
+    "id" : "https://Richel325.github.io/TempleMurals/images/RS39717_P-972-231-6_004/canvas/",
+    "label" : {
+      "none" : [ "RS39717_P-972-231-6_004" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Richel325.github.io/TempleMurals/images/RS39717_P-972-231-6_004/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Richel325.github.io/TempleMurals/images/RS39717_P-972-231-6_004/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 169,
+              "height" : 94
+            }, {
+              "width" : 338,
+              "height" : 188
+            }, {
+              "width" : 675,
+              "height" : 375
+            }, {
+              "width" : 1350,
+              "height" : 750
+            }, {
+              "width" : 2700,
+              "height" : 1500
+            }, {
+              "width" : 5400,
+              "height" : 3000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 5400,
+            "@id" : "https://Richel325.github.io/TempleMurals/images/RS39717_P-972-231-6_004",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5400,
+          "id" : "https://Richel325.github.io/TempleMurals/images/RS39717_P-972-231-6_004/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3000
+        },
+        "target" : "https://Richel325.github.io/TempleMurals/images/RS39717_P-972-231-6_004/canvas/"
+      } ]
+    } ],
+    "height" : 3000
+  }, {
     "width" : 4800,
     "id" : "https://Richel325.github.io/TempleMurals/images/RS39708/canvas/",
     "label" : {
