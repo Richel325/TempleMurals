@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a title=\"Hood Museum Matterport Tour\" href=\"https://my.matterport.com/show/?m=8gizHUPs9g7\" target=\"_blank\" rel=\"noopener\">https://my.matterport.com/show/?m=8gizHUPs9g7",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a title=\"Hood Museum Matterport Tour\" href=\"https://my.matterport.com/show/?m=8gizHUPs9g7\" target=\"_blank\" rel=\"noopener\">https://my.matterport.com/show/?m=8gizHUPs9g7</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/108364241",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-08-26T17:44:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1661535849119",
+    "dcterms:modified" : "2022-08-26T17:44:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Richel325.github.io/TempleMurals/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=498,591,3147,2365"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M958.77831,937.50276c290.5138,-198.61353 700.33059,-346.51431 1112.13334,-346.3376v0v0c411.80275,0.1767 770.55202,138.53549 1112.13334,346.3376c341.58131,207.80211 474.34964,524.45242 460.66071,836.13294c-13.68893,311.68052 -173.83512,618.39126 -460.66071,836.13294c-286.82559,217.74168 -700.33059,346.51431 -1112.13334,346.3376c-411.80275,-0.1767 -821.90324,-129.30274 -1112.13334,-346.3376c-290.23009,-217.03487 -460.58978,-521.97857 -460.66071,-836.13294c-0.07093,-314.15437 170.14691,-637.5194 460.66071,-836.13294z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_30aa6ed2-70af-4630-bf53-e87bbe4a3b0a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://93cc243e-f5d4-4c3b-a055-5d57e89ae8ca"
+    } ]
+  } ],
+  "@id" : "https://Richel325.github.io/TempleMurals/annotations/AnnotationsTest",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
