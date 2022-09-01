@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Richel325.github.io/TempleMurals/manifests/manifest4.json",
     "label" : "Betty Shabazz, Children, and Tribes Panels, Temple Murals"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Richel325.github.io/TempleMurals/manifests/dana_updatedmanifest.json",
+    "label" : "Betty Shabazz, Children, and Tribes Panels, Temple Murals"
   } ]
 }
