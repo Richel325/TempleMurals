@@ -1,0 +1,176 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Richel325.github.io/TempleMurals/manifests/dana_updatedmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Betty Shabazz, Children, and Tribes Panels, Temple Murals",
+  "metadata" : [ {
+    "label" : "Artist",
+    "value" : "O. Florian Jenkins, born 1940"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Medium",
+    "value" : "Acrylic on canvas adhered to the wall"
+  }, {
+    "label" : "Created",
+    "value" : "1972"
+  } ],
+  "description" : [ {
+    "@value" : "The Temple Murals: The Life of Malcolm X by Florian Jenkins has been a Dartmouth College treasure for forty years, and we are excited to reintroduce it with the publication of this brochure, the research that went into its contents, and the new photographs of the murals that illustrate it. Painted during a five-month period in 1972 in the Cutter-Shabazz affinity house at Dartmouth, the mural speaks to a potent moment in American history, one connected to events both in the life of civil rights leader Malcolm X and the moment of Dartmouth history in which the mural was created. The themes are relevant today as we reflect on the past half century, and well beyond, of the fight for equal rights.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "Commissioned by the Afro-American Society, Dartmouth College",
+  "sequences" : [ {
+    "@id" : "http://395d956c-99b3-4fe3-a13c-a56db6354a2d",
+    "@type" : "sc:Sequence",
+    "viewingHint" : "paged",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://93cc243e-f5d4-4c3b-a055-5d57e89ae8ca",
+      "@type" : "sc:Canvas",
+      "label" : "Shabazz Children, Temple Murals",
+      "height" : 5400,
+      "width" : 15181,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0af43c4f-cd2a-4aec-afeb-ae1d14108f73",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/rs-39714/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/rs-39714",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5400,
+          "width" : 15181
+        },
+        "on" : "http://93cc243e-f5d4-4c3b-a055-5d57e89ae8ca"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/108364241/e1a03a9935a9b962d88b4840029e1b80.json",
+        "label" : "Annotations for canvas Shabazz Children, Temple Murals"
+      } ]
+    }, {
+      "@id" : "http://36eade96-092c-4068-b3a3-13cbed0aa64e",
+      "@type" : "sc:Canvas",
+      "label" : "Betty Shabazz and Children, Temple Murals",
+      "height" : 5400,
+      "width" : 3698,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9e143948-0788-4b2d-8598-e5405a62cf70",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/rs-18189/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/rs-18189",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5400,
+          "width" : 3698
+        },
+        "on" : "http://36eade96-092c-4068-b3a3-13cbed0aa64e"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/108364241/9197c586108d3c6db32977b804e3acd2.json",
+        "label" : "Annotations for canvas Betty Shabazz and Children, Temple Murals"
+      } ]
+    }, {
+      "@id" : "http://3c9bf407-e935-4cf4-aa85-133dc39758b1",
+      "@type" : "sc:Canvas",
+      "label" : "Tribes, Temple Murals",
+      "height" : 5400,
+      "width" : 4800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://78dc119c-0cc6-4903-a0e4-fb1ffeaaa51c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/rs-39709/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/rs-39709",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5400,
+          "width" : 4800
+        },
+        "on" : "http://3c9bf407-e935-4cf4-aa85-133dc39758b1"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/108364241/581cd9aa1d5a2d6f15dc3b84a07f8cff.json",
+        "label" : "Annotations for canvas Tribes, Temple Murals"
+      } ]
+    }, {
+      "@id" : "http://6ad5c29a-7bfb-4364-afd1-61909af6fad5",
+      "@type" : "sc:Canvas",
+      "label" : "Tribes (con't), Temple Murals",
+      "height" : 5400,
+      "width" : 4800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c84ffd3b-ad3c-41de-9f34-5bfb73ee26db",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/rs-39708/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/rs-39708",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5400,
+          "width" : 4800
+        },
+        "on" : "http://6ad5c29a-7bfb-4364-afd1-61909af6fad5"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/108364241/731249e5226942f21fa10f785f7f3c9b.json",
+        "label" : "Annotations for canvas Tribes (con't), Temple Murals"
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://93cc243e-f5d4-4c3b-a055-5d57e89ae8ca" ]
+  } ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/108364241/c284a4d3598467e2ec2c54de5ecef6be/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
