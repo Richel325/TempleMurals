@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 113,
+    "height" : 169
+  }, {
+    "width" : 225,
+    "height" : 338
+  }, {
+    "width" : 450,
+    "height" : 675
+  }, {
+    "width" : 900,
+    "height" : 1350
+  }, {
+    "width" : 1800,
+    "height" : 2700
+  }, {
+    "width" : 3600,
+    "height" : 5400
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3600,
+  "@id" : "https://Richel325.github.io/TempleMurals/images/RS39707",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5400
+}
